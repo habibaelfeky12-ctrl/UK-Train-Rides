@@ -90,22 +90,42 @@ Our dashboards provide a priority-driven, "app-like" user experience integrating
 <table>
   <tr>
     <td align="center">
-      <img src="assets/screenshots/overview-dashboard.png" alt="Overview Dashboard" width="400"/>
+      <img src="Screanshots/Overview.png" alt="Overview Dashboard" width="400"/>
       <br><b>Overview Dashboard</b>
     </td>
     <td align="center">
-      <img src="assets/screenshots/financial-dashboard.png" alt="Financial Dashboard" width="400"/>
-      <br><b>Financial Dashboard</b>
+      <img src="Screanshots/F-Sales.png" alt="Sales Dashboard" width="400"/>
+      <br><b>Sales Dashboard</b>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="assets/screenshots/tickets-dashboard.png" alt="Tickets Dashboard" width="400"/>
-      <br><b>Tickets Dashboard</b>
+      <img src="Screanshots/F_leackage.png" alt="Leakage Dashboard" width="400"/>
+      <br><b>Leakage Dashboard</b>
     </td>
     <td align="center">
-      <img src="assets/screenshots/performance-dashboard.png" alt="Performance Dashboard" width="400"/>
+      <img src="Screanshots/Tickets.png" alt="Tickets Dashboard" width="400"/>
+      <br><b>Tickets Dashboard</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="Screanshots/Overall.png" alt="Performance Dashboard" width="400"/>
       <br><b>Performance Dashboard</b>
+    </td>
+    <td align="center">
+      <img src="Screanshots/Cancelled.png" alt="Cancelled Dashboard" width="400"/>
+      <br><b>Cancelled Dashboard</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="Screanshots/Delayed.png" alt="Delayed Dashboard" width="400"/>
+      <br><b>Delayed Dashboard</b>
+    </td>
+    <td align="center">
+      <img src="Screanshots/Routes.png" alt="Routes Dashboard" width="400"/>
+      <br><b>Routes Dashboard</b>
     </td>
   </tr>
 </table>
