@@ -150,8 +150,44 @@ To shift from reactive reporting to real-time foresight, we integrated Machine L
 
 ## 💡 Strategic Recommendations
 
-- **Financial & Pricing Strategy** — Shift off-peak discount windows to match actual demand (5:00–9:00 AM) to protect core margins and avoid revenue leakage.
-- **Operational Efficiency** — Integrate live weather data APIs with scheduling systems to enable advance departures and prevent reactive cancellations, improving the customer experience.
+# Strategic Recommendations (Financial & Pricing Strategy)
+
+- **Standardize Delay Repay**
+  - Enforce strict compensation tiers to prevent trains from crossing high-penalty time thresholds.
+  - Estimated cost reduction: **55%**.
+
+- **Realign Peak Pricing**
+  - Shift off-peak discount windows to match actual demand (**5:00–9:00 AM**).
+  - Avoid revenue leakage by approximately **10%**.
+
+- **Stop Discount Stacking**
+  - Decouple **"Pre-booked"** and **"Railcard"** discounts.
+  - Reduce revenue erosion currently estimated at **41%**.
+
+- **Deploy Ticket Segmentation**
+  - Validate and implement the **4-tier model** (**Budget to Luxury**).
+  - Optimize pricing based on passenger urgency.
+
+# Strategic Recommendations (Operational Efficiency & Route Management)
+
+- **Protect Revenue Artery**
+  - Prioritize infrastructure and maintenance on the **Manchester–Liverpool** route.
+  - Route identified as highest volume and high risk.
+  - Ensure continuous service and stable revenue flow.
+
+- **Peak-Hour Resilience**
+  - Implement preventative signal maintenance.
+  - Optimize crew deployment during rush hours.
+  - Minimize disruptions and maintain schedule integrity.
+
+- **Targeted Staff Restructuring**
+  - Address the **100% staff-driven delay rate** on the **Edinburgh corridor**.
+  - Focus on training, process improvements, and resource allocation.
+
+- **Proactive Weather APIs**
+  - Integrate live weather data with scheduling systems.
+  - Enable advance departures when needed.
+  - Prevent reactive cancellations and improve customer experience.
 
 ---
 
