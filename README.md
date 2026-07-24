@@ -150,7 +150,7 @@ To shift from reactive reporting to real-time foresight, we integrated Machine L
 
 ## 💡 Strategic Recommendations
 
-# Strategic Recommendations (Financial & Pricing Strategy)
+### Financial & Pricing Strategy
 
 - **Standardize Delay Repay**
   - Enforce strict compensation tiers to prevent trains from crossing high-penalty time thresholds.
@@ -168,7 +168,7 @@ To shift from reactive reporting to real-time foresight, we integrated Machine L
   - Validate and implement the **4-tier model** (**Budget to Luxury**).
   - Optimize pricing based on passenger urgency.
 
-# Strategic Recommendations (Operational Efficiency & Route Management)
+### Operational Efficiency & Route Management
 
 - **Protect Revenue Artery**
   - Prioritize infrastructure and maintenance on the **Manchester–Liverpool** route.
