@@ -205,6 +205,7 @@ We are a team of aspiring Data Analysts united by a shared passion for transform
 | Basmala Ehab | Data Analyst |
 
 **Supervised by:** Eng. Ahmed Samir
+
 **Supervised Company:** iLearn Academy
 
 ---
