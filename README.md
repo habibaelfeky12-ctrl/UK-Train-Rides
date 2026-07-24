@@ -4,7 +4,7 @@
 [![Tableau Dashboard](https://img.shields.io/badge/Tableau-Public%20Dashboard-E97627?style=for-the-badge&logo=tableau)](https://public.tableau.com/views/UKTrainDashboardF/FinancialSales?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
 
-> A Graduation Project for the **Digital Egypt Pioneers Initiative (DEPI)**, under the supervision of **iLearn Academy (Round 4)**.
+> A Graduation Project for the **Digital Egypt Pioneers Initiative (DEPI)**, under the supervision of **Eng. Ahmed Samir** & **iLearn Academy (Round 4)**.
 
 ---
 
