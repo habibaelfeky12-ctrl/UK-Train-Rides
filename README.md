@@ -85,7 +85,6 @@ Our dashboards provide a priority-driven, "app-like" user experience integrating
 
 ## 🖼️ Screenshots & Preview
 
-> Add your dashboard screenshots below. Upload the images to a folder (e.g. `assets/screenshots/`) in the repo, then reference them with the paths shown.
 
 <table>
   <tr>
